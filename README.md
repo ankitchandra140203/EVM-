@@ -1,4 +1,4 @@
-# EVM 
+# EVM verilog code
  Digital design of EVM machine with the help of fsm
  ## Problem statement ->
 In this circuit EVM machine is designed assuming 4 candidates. 
