@@ -1,6 +1,6 @@
 # EVM verilog code
  Digital design of EVM machine with the help of fsm
- ## Problem statement ->
+ ## Problem statement (Also provided in attached pdf) ->
 In this circuit EVM machine is designed assuming 4 candidates. 
 The requirement of this circuit would be to be able to store the value of the number of votes of the candidates standing in elections,
 when the button is pressed the number of votes should increase by 1 for that candidate. 
